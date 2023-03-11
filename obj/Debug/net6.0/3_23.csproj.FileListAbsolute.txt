@@ -1,0 +1,15 @@
+D:\Учеба\Seminars\3_23\obj\Debug\net6.0\3_23.csproj.AssemblyReference.cache
+D:\Учеба\Seminars\3_23\obj\Debug\net6.0\3_23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Seminars\3_23\obj\Debug\net6.0\3_23.AssemblyInfoInputs.cache
+D:\Учеба\Seminars\3_23\obj\Debug\net6.0\3_23.AssemblyInfo.cs
+D:\Учеба\Seminars\3_23\obj\Debug\net6.0\3_23.csproj.CoreCompileInputs.cache
+D:\Учеба\Seminars\3_23\bin\Debug\net6.0\3_23.exe
+D:\Учеба\Seminars\3_23\bin\Debug\net6.0\3_23.deps.json
+D:\Учеба\Seminars\3_23\bin\Debug\net6.0\3_23.runtimeconfig.json
+D:\Учеба\Seminars\3_23\bin\Debug\net6.0\3_23.dll
+D:\Учеба\Seminars\3_23\bin\Debug\net6.0\3_23.pdb
+D:\Учеба\Seminars\3_23\obj\Debug\net6.0\3_23.dll
+D:\Учеба\Seminars\3_23\obj\Debug\net6.0\refint\3_23.dll
+D:\Учеба\Seminars\3_23\obj\Debug\net6.0\3_23.pdb
+D:\Учеба\Seminars\3_23\obj\Debug\net6.0\3_23.genruntimeconfig.cache
+D:\Учеба\Seminars\3_23\obj\Debug\net6.0\ref\3_23.dll
